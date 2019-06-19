@@ -4,6 +4,6 @@
 
 [Python Tutorial](https://ga-cyberworkforceacademy.github.io/Python/)
 
-[First Semester Algebra 2 Project](HelloPython.docx)
+[First Semester Algebra 2 Project](https://github.com/galvist/dfamathproject/raw/master/HelloPython.docx)
 
 
